@@ -1,0 +1,6 @@
+export enum MutationTypes {
+    UPDATE_USERS = 'UPDATE_USERS',
+    UPDATE_LOADING = 'UPDATE_LOADING',
+    EDIT_USER = 'EDIT_USER',
+    DELETE_USER = 'DELETE_USER'
+}
